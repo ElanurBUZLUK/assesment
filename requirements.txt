@@ -1,0 +1,5 @@
+apify-client>=1.6.1
+openai>=1.40.0
+tiktoken>=0.6.0
+sentence-transformers>=3.0.0
+torch>=2.1.0
